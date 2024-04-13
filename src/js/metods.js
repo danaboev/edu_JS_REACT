@@ -31,7 +31,7 @@ console.log(logg.substr(6, 5));
 const num = 12.3;
 console.log(Math.round(num));
 
-const tes = '12.3px'
+const tes = '12.3px';
 console.log(parseInt(tes));
 console.log(parseFloat(tes));
 
