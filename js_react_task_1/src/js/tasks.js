@@ -1,6 +1,12 @@
 // /* eslint-disable @typescript-eslint/no-unused-vars */
 // 'use strict';
 // // eslint-disable-next-line @typescript-eslint/no-unused-vars
+//task_0
+// let userName = 'John';
+// let userNumber = 25;
+// userNumber = 24; 
+
+//task_1
 // const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', "");
 
 // // eslint-disable-next-line @typescript-eslint/no-unused-vars

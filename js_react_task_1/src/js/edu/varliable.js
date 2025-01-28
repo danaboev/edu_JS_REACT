@@ -32,10 +32,15 @@ const hightBody = 200;
 
 console.log("Ширина автомобиля:" + widthBody + 'высота авто:' + hightBody);
 
-// snake_case
-// UPPER_SNAKE_CASE
-// Kebab-case
-// PascalCase
+// request to server data
+// data
+// response
 
-let COLOR_RED = '#f00';
+// snake_case 
+// UPPER_SNAKE_CASE
+// Kebab-case - for exp: _apiBase
+// PascalCase - for classes
+
+let COLOR_RED = '#f00'; //dont change only for usage - нельзя изменить только для использования
+
 const _apiBase = 'https://ecxmake.com';
