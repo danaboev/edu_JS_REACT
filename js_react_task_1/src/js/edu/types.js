@@ -7,32 +7,36 @@ console.log(4/0); /* infinity */
 console.log('string' * 9); /* NaN */
 
 //string
-const person = 'alex';
-const numStr = '5';
+const person = 'John'; // какую кавычки выбрать без разницы самое главное одиинаковые были 
+const employe = "wok"
+const numStr = `5`;
 
 //boolean true or false
 const bool = true;
+// const bool = false;
 
-//null
-console.log(somthing);
 
-//undefined
+//null - не существующий объект
+console.log(somthing); //referenceError
+
+//undefined - нет никакого значения
 let und; 
 console.log(und)
 
-//object-complex
+//object-complex 
 const obj = {
-    name: 'john',
+    name: 'john', // свойства объекта 
     age:27,
     isMarried: false
 };
-console.log(obj.name);
-console.log(obj["name"]);
+console.log(obj.name); //через точку обращаем к объекту и вызываем свойства объекта 
+console.log(obj["name"]); //тут обращаемся через квадратные скобки
 
 //array
-let arr = ["img1", "img2", 5, "img3",{},[]];
+let arr = ["img1", "img2", 5, "img3",{},[]]; //классический массив
 console.log(arr[2]);
 
+//разница между МАССИВАМИ и ОБЪЕКТАМИ
 //ARRAY vs OBJECT
 //syntax
 const array = ['1', '2', '3'];
@@ -41,9 +45,6 @@ console.log(array[1]);
 array[10] = '12345' //dont recomeded
 console.log(array[10]);
 console.log(array);
-
-
-
 
 const object = { a: 1 , b: 2, c: 3};
 
@@ -83,4 +84,3 @@ const arrObj2 = {
 };
 arrObj2[b] = {};
 arrObj2[b] = [];
-
