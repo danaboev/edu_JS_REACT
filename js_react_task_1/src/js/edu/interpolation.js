@@ -4,7 +4,7 @@
 
 const category = 'toys';
 // console.log('https://expurl.com/' + category);
-console.log(`https://expurl.com/${category}/5`);
+// console.log(`https://expurl.com/${category}/5`);
 
 const user = 'ivan';
 alert(`hello, ${user}`);
