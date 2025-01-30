@@ -10,7 +10,7 @@ settings
   - save on save - +
   - default format - ESLint
  # Настройка автоматического формантирования
-  -------------------
+
   - settings.json
           "editor.codeActionsOnSave": {
       		"source.fixAll.eslint": true 
