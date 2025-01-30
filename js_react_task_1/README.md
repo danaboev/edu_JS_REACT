@@ -1,22 +1,24 @@
 # edu_project_react_1
 ## edu project №1(практические задачки из курса) 
 
-надстройка ESLint
-----------------------
+## надстройка ESLint
+```
 ESLint
   - npm init
   - npm @eslint/config
 settings
   - save on save - +
   - default format - ESLint
+```
  # Настройка автоматического формантирования
 
-  - settings.json
+```
+settings.json
           "editor.codeActionsOnSave": {
       		"source.fixAll.eslint": true 
       	},
       	"eslint.validate": ["javascript"]
-_______________________
+```
 
 практическая задача_1
 --------------------------------------------------------------------------------------------------------
