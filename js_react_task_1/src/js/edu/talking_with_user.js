@@ -1,9 +1,14 @@
 "use strict";
+//console.log
+console.log('hello js');
+
 //alert
-// alert('hello');
+alert('hello jahon');
+
 //confirm
-const result = confirm("are you here?");
-console.log(result);
+// const result = confirm("are you here?");
+// console.log(result);
+
 //prompt
 // const answer = prompt("are you here?" , "18");
 // console.log(answer);
@@ -25,5 +30,5 @@ console.log(result);
 
 // document.write(ans);
 // console.log(typeof(ans));
-// console.log(typeof(null));
+// console.log(typeof(null)); 
 

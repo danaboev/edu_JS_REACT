@@ -17,12 +17,12 @@ const bool = true;
 
 
 //null - не существующий объект
-console.log(somthing); //referenceError
+console.log(something); //referenceError
 
 //undefined - нет никакого значения
 let und; 
 console.log(und)
-
+ 
 //object-complex 
 const obj = {
     name: 'john', // свойства объекта 
@@ -33,8 +33,7 @@ console.log(obj.name); //через точку обращаем к объект�
 console.log(obj["name"]); //тут обращаемся через квадратные скобки
 
 //array
-let arr = ["img1", "img2", 5, "img3",{},[]]; //классический массив
-console.log(arr[2]);
+ 
 
 //разница между МАССИВАМИ и ОБЪЕКТАМИ
 //ARRAY vs OBJECT
@@ -49,8 +48,8 @@ console.log(array);
 const object = { a: 1 , b: 2, c: 3};
 
 const workers = {
-    'anna' : 500,
-    'ben' :600,
+    'ali' : 500,
+    'vali' :600,
     alex:700
 }
 //functional

@@ -1,8 +1,8 @@
 //разница между МАССИВАМИ и ОБЪЕКТАМИ
 //ARRAY vs OBJECT
-//syntax
+//syntaxv       0.   1.   2. 
 const array = ['1', '2', '3'];
-console.log(array[1]);
+console.log(array[2]);
 
 array[10] = '12345' //dont recomeded - не рекомендуктся 
 console.log(array[10]);
@@ -12,8 +12,8 @@ const object = { a: 1 , b: 2, c: 3};
 
 const workers = {
     'anna' : 500,
-    'ben' :600,
-    alex:700
+    'ben'  : 600,
+    alex   : 700
 }
 //functional obj
 const arrObj = {

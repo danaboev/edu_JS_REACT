@@ -27,11 +27,12 @@ alert(5);
 
 // naming var with rules
 
-const widthBody = 100;
-const hightBody = 200;
+const vehicleWidthBody = 100;
+const vehicleHeightBody = 200;
 
-console.log("Ширина автомобиля:" + widthBody + 'высота авто:' + hightBody);
+console.log("Ширина автомобиля:" + vehicleWidthBody + 'высота авто:' + vehicleHeightBody);
 
+//['z','x','y'].map(a=>) 
 // request to server data
 // data
 // response
