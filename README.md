@@ -1,4 +1,5 @@
-# JavaScript #REACT
+# JavaScript 
+# REACT
 ## Нативный JavaScript
 
 В этом репозитории приведены все изученные материалы из курса веб программирование JavaScript - React, а также
